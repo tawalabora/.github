@@ -1,4 +1,4 @@
-# [Tawala Bora](https://github.com/tawalabora/.github/)
+# Tawala Bora's GitHub Profile
 
 This repository serves as the central location for **Tawala Bora**'s public GitHub profile and other associated assets.
 
