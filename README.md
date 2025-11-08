@@ -1,4 +1,3 @@
 # Tawala Bora
 
-<!-- Use logo -->
-<!-- Add motto/caption -->
+- GitHub profile: [https://github.com/tawalabora]
